@@ -1,6 +1,7 @@
 body {
     background-color: #2C3639;
     color: #D2D79F;
+    font-size: 16px;
 }
 
 .foto-perfil {
@@ -21,15 +22,15 @@ margin-right: 13%;
 
 section {
     text-align: center;
-    padding: 15px;
+    padding: 2px;
 }
 
 .enlaces {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 18px;
     border: 1px solid #90B77D;
     border-width: 2px;
-    padding: 20px;
+    padding: 15px;
 
     width: 290px;
     display: block;
@@ -38,7 +39,7 @@ section {
 
     border-radius: 40px;
 
-    font-size: 18px;
+    font-size: 16px;
 }
 
 a {
