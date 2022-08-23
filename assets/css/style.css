@@ -1,0 +1,53 @@
+body {
+    background-color: #2C3639;
+    color: #D2D79F;
+}
+
+.foto-perfil {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    height: auto;
+    max-width: 100px;
+
+    border-radius: 50%;
+}
+
+.texto {
+margin-left: 15%;
+margin-right: 15%;
+}
+
+section {
+    text-align: center;
+    padding: 15px;
+}
+
+.enlaces {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #90B77D;
+    border-width: 2px;
+    padding: 20px;
+
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 40px;
+
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #D2D79F;
+    transition: color 1s;
+}
+
+a:hover {
+    color: #2C3639;
+    background-color: #42855B;
+}
